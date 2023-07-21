@@ -1,1 +1,4 @@
 geexit=0
+r=requests.get("https://api.myip.com/")
+print(r.text)
+input("dır")
