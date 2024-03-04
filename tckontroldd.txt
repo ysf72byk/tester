@@ -1,1 +1,1 @@
-Basic ZGl0cmF2b3llYnNwOmRpdHJhMzQhdm8u
+beartoken='Basic ZGl0cmF2b3llYnNwOmRpdHJhMzQhdm8u'
